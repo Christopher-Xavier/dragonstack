@@ -1,4 +1,11 @@
-### Master Full-Stack Development | Node, SQL, React, and More
+###  Full-Stack Development | Node, SQL, React, and More
+
+User-stories:
+As a new user	I want to sign up for an account	
+As a new user	I want to upload items to my account	
+As a new user	I want to add my dragons to account
+As a Returning user I can Login
+
 
 The official code for the *Master Full-Stack Development | Node, SQL, React, and POSTGRESQL
 
